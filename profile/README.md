@@ -15,15 +15,6 @@ An open-source MCP Server that turns vague intentions ("buy something for my gir
 
 ---
 
-### 🏃 [ElCap](https://github.com/Project-Tharsis/elcap) — Personal Health Coach
-> *Can AI read your body better than you can?*
-
-A native macOS/iOS app that ingests HealthKit data, computes advanced training metrics (TRIMP, ACWR, ATL/CTL), and provides AI-powered coaching via Moonshot AI. Supabase backend with Edge Functions. The training algorithms are the real product — the AI just asks the right questions.
-
-`Swift` · `SwiftUI` · `HealthKit` · `Supabase` · `Moonshot AI`
-
----
-
 ### 🌬️ [Boreas](https://github.com/Project-Tharsis/boreas) — Personal VPN
 > *Can setting up a VPN take 30 seconds?*
 
@@ -39,6 +30,15 @@ A Python CLI that turns any Linux VPS into a WireGuard VPN with one command. Cli
 A cross-platform intelligence system tracking AI + economy discussions across US (Reddit, HN, X/Twitter) and China (小红书, 微博, 知乎). Cron-driven collection → structured daily briefings. Named after the muse of history — because narratives shape markets.
 
 `Python` · `cron` · `multi-platform`
+
+---
+
+### 🏃 [ElCap](https://github.com/Project-Tharsis/elcap) — Personal Health Coach
+> *Can AI read your body better than you can?*
+
+A native macOS/iOS app that ingests HealthKit data, computes advanced training metrics (TRIMP, ACWR, ATL/CTL), and provides AI-powered coaching via Moonshot AI. Supabase backend with Edge Functions. The training algorithms are the real product — the AI just asks the right questions.
+
+`Swift` · `SwiftUI` · `HealthKit` · `Supabase` · `Moonshot AI`
 
 ---
 
@@ -60,3 +60,5 @@ The common thread: **AI isn't the product. It's the interface.** Argus doesn't s
 ---
 
 Built with taste. Maintained with obsession. [All MIT licensed.](https://github.com/Project-Tharsis)
+
+<sub>`demo-repository` is a GitHub auto‑generated starter — it's not a real project.</sub>
