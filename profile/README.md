@@ -4,7 +4,6 @@
 
 Each project starts with a question: *Can AI make this better?* The answer lives in code.
 
----
 
 ### 🎁 [Argus](https://github.com/Project-Tharsis/argus) — Gift Recommendation Engine
 > *Can an AI Agent find the perfect gift?*
@@ -13,16 +12,12 @@ An open-source MCP Server that turns vague intentions ("buy something for my gir
 
 `Python` · `FastMCP` · `skill-based architecture`
 
----
-
 ### 🌬️ [Boreas](https://github.com/Project-Tharsis/boreas) — Personal VPN
 > *Can setting up a VPN take 30 seconds?*
 
 A Python CLI that turns any Linux VPS into a WireGuard VPN with one command. Client management, QR codes for mobile onboarding, multi-region support. No YAML sprawl, no forgotten iptables rules. Built because VPN setup should be boring.
 
 `Python` · `WireGuard` · `CLI`
-
----
 
 ### 🏛️ [Clio](https://github.com/Project-Tharsis/clio) — Social Media Monitor
 > *Can AI surface what matters before the market does?*
@@ -31,8 +26,6 @@ A cross-platform intelligence system tracking AI + economy discussions across US
 
 `Python` · `cron` · `multi-platform`
 
----
-
 ### 🏃 [ElCap](https://github.com/Project-Tharsis/elcap) — Personal Health Coach
 > *Can AI read your body better than you can?*
 
@@ -40,16 +33,12 @@ A native macOS/iOS app that ingests HealthKit data, computes advanced training m
 
 `Swift` · `SwiftUI` · `HealthKit` · `Supabase` · `Moonshot AI`
 
----
-
 ### 🛡️ [Faro](https://github.com/Project-Tharsis/faro) — Security Pipeline
 > *Can AI police itself?*
 
 A security scanner for Hermes Agent skills and plugins. 19 checks across dangerous calls, credential leaks, config access, and network activity. Staging → Audit → Approve pipeline. Nothing becomes active without a scan. Named after lighthouses — because someone has to watch the rocks.
 
 `Python` · `CLI` · `pre-llm-call hook`
-
----
 
 ### Philosophy
 
